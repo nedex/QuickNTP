@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1] - 2021-07-20
+
+### Updated
+
+- libnx @ [v4.3.1](https://github.com/switchbrew/libnx/releases/tag/v4.1.3)
+- libtesla @ [640629f](https://github.com/WerWolv/libtesla/commit/a68af19eda8e2b1d51008a2e1a1b71649460f901)
+
 ## [1.2.0] - 2020-11-21
 
 #### *The future-proof update*
